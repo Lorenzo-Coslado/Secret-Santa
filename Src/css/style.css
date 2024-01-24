@@ -1,0 +1,28 @@
+.tabResultat {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tabResultat th,
+.tabResultat td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: left;
+}
+
+.tabResultat th {
+  background-color: #f2f2f2;
+}
+
+.tabForm {
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+#add_Santa {
+  margin-right: 350px;
+}
